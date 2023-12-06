@@ -1,6 +1,6 @@
 # MultiplicationGame
 This is an MIPS Assembly project based on <a href="https://www.mathsisfun.com/games/multiplication-game.html" target="_blank">Multiplication Game</a>
-
+ReadME by Arvindh
 
 # REQUIREMENTS
 * Subroutines
