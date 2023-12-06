@@ -1,5 +1,5 @@
 # MultiplicationGame
-This is a CS 2340 project based on <a href="https://www.mathsisfun.com/games/multiplication-game.html" target="_blank">Multiplication Game</a>
+This is an MIPS Assembly project based on <a href="https://www.mathsisfun.com/games/multiplication-game.html" target="_blank">Multiplication Game</a>
 
 
 # REQUIREMENTS
